@@ -1,0 +1,2 @@
+# Gerrit_Repository_Compare
+模仿gitlab的repository_compare制作的gerrit版本的repository_compare
